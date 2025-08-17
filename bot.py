@@ -1,8 +1,8 @@
 from pyrogram import Client
 
-app_id=2940667
-api_hash="8590c88aca3638eb321979577ddb53d3"
-bot_token="1682447920:AAF9U9KS_jrzQS2yTJqqwbbkLCcQq7lB_kA"
+app_id=123456
+api_hash="123456asdf"
+bot_token="123456:bot_token"
 
 app = Client(":memory:",app_id,api_hash,bot_token=bot_token)
 
